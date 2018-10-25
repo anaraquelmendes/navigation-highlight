@@ -15,7 +15,7 @@ h1 {
   background-color: #ffe500;
   color: #cc1465;
   font-family: "Sigmar One";
-  margin: 0;
+  margin: 3em;
   padding: .5em .2em;
   text-align: center;
 }
@@ -45,7 +45,7 @@ h1 {
   background-color: #cc1465;
 }
 
-.nav .current {
+.nav ul .current {
   background-color: #b2a212;
 }
 
@@ -60,4 +60,8 @@ footer {
   color: #000;
   padding: .5em .3em;
   text-align: center;
+}
+
+.img {
+
 }
