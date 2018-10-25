@@ -4,7 +4,7 @@ html {
 }
 
 *, *::before, *::after {
- box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 body {
@@ -62,6 +62,8 @@ footer {
   text-align: center;
 }
 
-.img {
-
+img {
+  display: block;
+  width: inherit;
+  margin: .3em;
 }
