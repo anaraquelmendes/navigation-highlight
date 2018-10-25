@@ -16,9 +16,8 @@ h1 {
   color: #cc1465;
   font-family: "Sigmar One";
   margin: 0;
-  padding: .5em, .2em;
+  padding: .5em .2em;
   text-align: center;
-  text-size: 3rem;
 }
 
 .nav {
@@ -54,13 +53,12 @@ h2 {
   color: #cc1465;
   font-family: "Sigmar One";
   text-align: left;
-  text-size: 3rem;
 }
 
 footer {
   background-color: #ffe500;
   color: #000;
-  padding: .5em, .3em;
+  padding: .5em .3em;
   text-align: center;
   text-size: .75em;
 }
