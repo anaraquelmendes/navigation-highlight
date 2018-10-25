@@ -1,5 +1,10 @@
 html {
   font: normal 100%/1.5 Georgia;
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+ box-sizing: inherit;
 }
 
 body {
@@ -34,6 +39,7 @@ h1 {
   color: #fff;
   display: inline-block;
   text-decoration: none;
+  padding: .5em .75em;
 }
 
 .nav a:hover {
@@ -48,7 +54,7 @@ h2 {
   color: #cc1465;
   font-family: "Sigmar One";
   text-align: left;
-  text-size: 1.875rem;
+  text-size: 3rem;
 }
 
 footer {
