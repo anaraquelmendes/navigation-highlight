@@ -16,7 +16,7 @@ h1 {
   color: #cc1465;
   font-family: "Sigmar One";
   margin: 0;
-  padding: .5em 0 .75em;
+  padding: .5em 0. 75em;
   text-align: center;
   font-size: 3em;
 }
@@ -64,7 +64,11 @@ footer {
 }
 
 img {
-  display: block;
+  display: inline-block;
   width: 400px;
   margin: .3em;
+}
+
+.fruits {
+  font-size: 2em;
 }
