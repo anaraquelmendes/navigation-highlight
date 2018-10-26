@@ -12,7 +12,7 @@ h1 {
   color: #cc1465;
   font-family: "Sigmar One";
   margin: 0;
-  padding: .5em 0. 75em;
+  padding: .5em 0 .75em;
   text-align: center;
   font-size: 3em;
 }
@@ -75,4 +75,8 @@ img {
 
 body {
   margin: 0;
+}
+
+.content {
+  color: #2f2d13;
 }
