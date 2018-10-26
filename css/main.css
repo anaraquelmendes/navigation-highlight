@@ -15,9 +15,10 @@ h1 {
   background-color: #ffe500;
   color: #cc1465;
   font-family: "Sigmar One";
-  margin: 3em;
-  padding: .5em .2em;
+  margin: 0;
+  padding: .5em 0 .75em;
   text-align: center;
+  font-size: 3em;
 }
 
 .nav {
