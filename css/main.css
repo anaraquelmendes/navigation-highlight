@@ -7,10 +7,6 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  margin: 0;
-}
-
 h1 {
   background-color: #ffe500;
   color: #cc1465;
@@ -50,6 +46,10 @@ h1 {
   background-color: #b2a212;
 }
 
+.nav ul .current:hover {
+  background-color:#cc1465;
+}
+
 h2 {
   color: #cc1465;
   font-family: "Sigmar One";
@@ -71,4 +71,8 @@ img {
 
 .fruits {
   font-size: 2em;
+}
+
+body {
+  margin: 0;
 }
