@@ -10,8 +10,8 @@ html {
 h1 {
   background-color: #ffe500;
   color: #cc1465;
-  font-family: "Sigmar One";
-  font-size: 3em;
+  font-family: "Sigmar One", cursive;
+  font-size: 3rem;
   margin: 0;
   padding: 0 .75em;
   text-align: center;
@@ -27,6 +27,7 @@ h1 {
 
 .nav li {
   display: inline-block;
+  margin-bottom: .3em;
 }
 
 .nav a {
@@ -39,10 +40,10 @@ h1 {
 }
 
 .nav a:hover {
-  background-color: #b20953;
+  background-color: #cc1465;
 }
 
-.nav ul .current {
+.nav .current {
   background-color: #b2a212;
 }
 
@@ -51,26 +52,22 @@ h1 {
 }
 
 h2 {
-  color: #cc1465;
+  color: #b20953;
   font-family: "Sigmar One";
   text-align: left;
+  font-size: 1.875rem;
 }
 
 footer {
   background-color: #ffe500;
   color: #000;
-  padding: .75em;
+  padding: 1em 0;
   text-align: center;
 }
 
 img {
   display: block;
-  width: 450px;
-  margin: .3em;
-}
-
-.fruits {
-  font-size: 2em;
+  width: 100%;
 }
 
 body {
@@ -79,4 +76,6 @@ body {
 
 .content {
   color: #2f2d13;
+  padding-left: .75em;
+  padding-right: .75em;
 }
