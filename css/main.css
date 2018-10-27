@@ -7,6 +7,10 @@ html {
   box-sizing: inherit;
 }
 
+header {
+  background-color: #ffe500;
+}
+
 h1 {
   background-color: #ffe500;
   color: #cc1465;
@@ -35,7 +39,7 @@ h1 {
   color: #fff;
   display: inline-block;
   text-decoration: none;
-  padding: .5em .75em;
+  padding: .3em;
 }
 
 .nav a:hover {
@@ -46,20 +50,15 @@ h1 {
   background-color: #b2a212;
 }
 
-.nav ul .current:hover {
-  background-color: #b20953;
-}
-
 h2 {
   color: #b20953;
-  font-family: "Sigmar One";
+  font-family: "Sigmar One", cursive;
   text-align: left;
   font-size: 1.875rem;
 }
 
 footer {
   background-color: #ffe500;
-  color: #000;
   padding: 1em 0;
   text-align: center;
 }
@@ -77,4 +76,8 @@ body {
   color: #2f2d13;
   padding-left: .75em;
   padding-right: .75em;
+}
+
+title {
+  color: #cc1465;
 }
