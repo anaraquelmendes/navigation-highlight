@@ -47,7 +47,7 @@ h1 {
 }
 
 .nav .current {
-  background-color: #b2a212;
+  background-color: #cc1465;
 }
 
 h2 {
@@ -59,7 +59,7 @@ h2 {
 
 footer {
   background-color: #ffe500;
-  padding: 1em 0;
+  padding: .2em;
   text-align: center;
 }
 
@@ -76,6 +76,7 @@ body {
   color: #2f2d13;
   padding-left: .75em;
   padding-right: .75em;
+  background-color: #fff;
 }
 
 title {
