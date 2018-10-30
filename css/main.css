@@ -60,7 +60,8 @@ h2 {
 
 footer {
   background-color: #ffe500;
-  padding: .1em 0;
+  padding: .02em 0;
+  font-size: 1em;
   text-align: center;
 }
 
