@@ -40,6 +40,7 @@ h1 {
   display: inline-block;
   text-decoration: none;
   padding: .3em;
+  font-size: 1.2rem;
 }
 
 .nav a:hover {
@@ -59,7 +60,7 @@ h2 {
 
 footer {
   background-color: #ffe500;
-  padding: .2em;
+  padding: .1em 0;
   text-align: center;
 }
 
@@ -69,6 +70,7 @@ img {
 }
 
 body {
+  background-color: #fff;
   margin: 0;
 }
 
@@ -77,6 +79,7 @@ body {
   padding-left: .75em;
   padding-right: .75em;
   background-color: #fff;
+  margin: .3em;
 }
 
 title {
